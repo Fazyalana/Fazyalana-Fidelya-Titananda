@@ -1,0 +1,1 @@
+print('Walt Disney pernah berkata, "Cara untuk memulai adalah dengan berhenti berbicara dan mulai melakukan."')
