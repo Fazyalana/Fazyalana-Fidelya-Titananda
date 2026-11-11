@@ -1,0 +1,4 @@
+Dalam Python, kamu bisa membuat variabel.
+Dalam Python, kamu bisa menggunakan perulangan.
+Dalam Python, kamu bisa membuat fungsi.
+Dalam Python, kamu bisa mengolah data.
